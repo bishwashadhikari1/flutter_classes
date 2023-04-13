@@ -9,7 +9,7 @@ void main() {
     "Dipson"
   ];
 
-  print(find(friends, 'c'));
+  print(find(friends, 'a'));
 }
 
 String find(List<String> friends, String start) {

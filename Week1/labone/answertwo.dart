@@ -1,6 +1,6 @@
 void main() {
   String char = 'A';
-  vowelorconsonent(char);
+  print(vowelorconsonent(char));
 }
 
 String vowelorconsonent(String char) {
